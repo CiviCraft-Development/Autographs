@@ -1,0 +1,4 @@
+autograph:
+  re-sign: false #If a player can sign an item if they already have signed it before
+  signable-items: #Which items can be signed. Leave empty for no restrictions
+    - "PAPER"

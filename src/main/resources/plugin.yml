@@ -1,0 +1,8 @@
+name: Autographs
+version: '1.0'
+main: net.civicraft.autographs.Autographs
+api-version: '1.21'
+commands:
+  autograph:
+    description: Signs an item
+    usage: /autograph
